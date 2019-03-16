@@ -41,7 +41,7 @@ public class CyclicBarrierTest_3 {
                     cyclicBarrier.await();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
-                }catch(BrokenBarrierException e){
+                } catch(BrokenBarrierException e) {
                     e.printStackTrace();
                 }
                 System.out.println(Thread.currentThread().getName()+"所有线程写入完毕，继续处理其他任务...");
