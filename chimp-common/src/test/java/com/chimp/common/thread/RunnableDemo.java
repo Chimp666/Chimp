@@ -5,17 +5,17 @@ package com.chimp.common.thread;
  * @date: 2019/3/13 12:21
  * @description: TODO
  */
-public class Wrap implements Runnable {
+public class RunnableDemo implements Runnable {
 
     @Override
     public void run() {
-        System.out.println("wrapper start");
+        System.out.println("runnable start");
         try {
             Thread.sleep(3000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("wrapper stop");
+        System.out.println("runnable stop");
     }
 
 }

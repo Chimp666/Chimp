@@ -27,3 +27,5 @@ HELP.md
 /.idea
 /.idea/compiler.xml
 /chimp-common/target
+/chimp-common/target
+*/target/
