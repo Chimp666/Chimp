@@ -24,7 +24,6 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
-/.idea
-/.idea/compiler.xml
-/chimp-common/target
-*/target
+
+### VS Code ###
+.vscode/
