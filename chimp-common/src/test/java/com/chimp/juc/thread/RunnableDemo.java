@@ -1,4 +1,4 @@
-package com.chimp.common.thread;
+package com.chimp.juc.thread;
 
 /**
  * @auther: liux

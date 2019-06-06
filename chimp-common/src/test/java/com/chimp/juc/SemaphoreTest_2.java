@@ -1,4 +1,4 @@
-package com.chimp.common;
+package com.chimp.juc;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;

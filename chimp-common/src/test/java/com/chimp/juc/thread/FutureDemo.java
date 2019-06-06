@@ -1,4 +1,4 @@
-package com.chimp.common.thread;
+package com.chimp.juc.thread;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
