@@ -1,4 +1,4 @@
-package com.chimp.juc;
+package com.chimp.test.juc;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

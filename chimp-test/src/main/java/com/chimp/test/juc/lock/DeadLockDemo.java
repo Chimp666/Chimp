@@ -1,4 +1,4 @@
-package com.chimp.juc.lock;
+package com.chimp.test.juc.lock;
 
 /**
  * @auther: liux
